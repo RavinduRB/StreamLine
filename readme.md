@@ -46,6 +46,13 @@ The application is built to bridge the gap between complex IPTV playlists and en
 - Step 2: Open this folder in VSCode.
 - Step 3: Run the commands "npm install" and "npm run dev" in the VSCode terminal.
 
+## 🧊 StreamLine Web Application UI
+1. Home Page
+<img width="1919" height="897" alt="Home Page" src="https://github.com/user-attachments/assets/27c9e7db-5768-4d32-a454-a45e52ca3c66" />
+
+2. Channels View
+<img width="1919" height="900" alt="Channels View" src="https://github.com/user-attachments/assets/e6328667-ab65-4e1a-8798-6e3db6c3a297" />
+
 ## ⚖️ Disclaimer
 
 StreamLine is a media player interface. It does **not** host, own, or manage any of the streaming content. All streams are sourced from external, publicly available `.m3u` playlists. Users are responsible for ensuring they have the rights to view the content accessed via the platform.
