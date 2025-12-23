@@ -1,0 +1,6 @@
+
+{
+  "name": "StreamLine IPTV",
+  "description": "A high-performance, modern live TV streaming platform using IPTV playlist sources with HLS support and smart categorization.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
