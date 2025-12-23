@@ -2,6 +2,12 @@
 
 StreamLine is a modern, high performance live TV streaming platform designed to provide a seamless "lean back" experience across all devices. It leverages open source IPTV playlists to deliver thousands of global channels with a professional, industry standard interface.
 
+
+
+https://github.com/user-attachments/assets/a721a365-a1a9-4342-90de-e62644b7c746
+
+
+
 ## 🚀 Overview
 
 The application is built to bridge the gap between complex IPTV playlists and end users by providing an intuitive, Netflix inspired UI. It automatically parses `.m3u` sources, categorizes them using intelligent keyword mapping, and provides a robust HLS video player for low latency streaming.
